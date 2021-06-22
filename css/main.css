@@ -1,0 +1,24 @@
+div {
+  margin-bottom: 20px;
+}
+
+#small_picture {
+  width: 550px;
+}
+
+#names {
+  color: rgb(126, 102, 74);
+}
+
+#footer {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+#textbox {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+  outline: none;
+  box-shadow: none;
+}
